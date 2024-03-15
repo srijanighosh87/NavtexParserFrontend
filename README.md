@@ -1,4 +1,4 @@
-# navtaxparser_frontend
+# navtexparser_frontend
 
 ## Project setup
 ```
