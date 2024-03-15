@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+1. Runs at http://localhost:8080
+2. Accesses API from https://localhost:7777 
